@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Image from "../assets/image.png";
-import Logo from "../assets/logo.png";
+import Image from "image.png";
+import Logo from "logo.png";
 import { FaEye, FaEyeSlash } from "react-icons/fa6";
 
 const Login = () => {
